@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](졸업작품 발표회 포스터.PNG)
+![](졸업작품 발표회 포스터.png)
 <!--
 
 **Here are some ideas to get you started:**
