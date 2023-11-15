@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](졸업작품 발표회 포스터.PNG)
 <!--
 
 **Here are some ideas to get you started:**
